@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.shanetomlinson_sandbox.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\Game Engine Coding\\Projects_Current\\ShaneTomlinson_Sandbox\\ShaneTomlinson_Sandbox\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ShaneTomlinson_Sandbox [Testing]"
+        }
+      }
+    }
+  ]
+}
